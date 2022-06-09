@@ -1,7 +1,11 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "tarun dev",
 	"dependencies": {
 		"express": "^4.14.0"
+	},
+	"engines": {
+		"node": "14.16.1"
 	},
 	"main": "server.js",
 	"scripts": {

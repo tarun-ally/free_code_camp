@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "tarun dev",
 	"description": "learning backend",
-	"keywords":["free","learning","backend"],
+	"keywords":["free","learning","backend","freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},

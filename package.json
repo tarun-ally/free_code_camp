@@ -1,7 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "tarun dev",
-	"description": "learn backend",
+	"description": "learning backend",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
